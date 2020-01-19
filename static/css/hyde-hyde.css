@@ -234,10 +234,10 @@ a {
   padding-top: 2rem; }
 
 .sidebar {
-  background-color: #300030;
+  background-color: #191975;
   color: white;
   color: rgba(255, 255, 255, 0.5);
-  padding: 2rem 1rem;
+  padding: 2rem 0rem;
   text-align: center; }
   .sidebar a {
     color: #f9f9f9;
@@ -249,6 +249,7 @@ a {
   .sidebar .sidebar-about {
     text-align: center; }
   .sidebar .author-image {
+    margin-bottom: 2rem;
     display: block;
     margin-top: 4px; }
 
@@ -272,7 +273,7 @@ a {
     border: none; }
 
 .site__description {
-  font-size: 1.285rem;
+  font-size: 18px;
   font-weight: 300; }
 
 .social {
@@ -283,6 +284,7 @@ a {
     text-decoration: none; }
 
 .img--circle {
+  border: 2px solid #328cc7;
   border-radius: 50%; }
 
 .img--headshot {
